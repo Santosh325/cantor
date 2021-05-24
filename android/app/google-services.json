@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83658538661",
+    "project_id": "mycantor-a9cb2",
+    "storage_bucket": "mycantor-a9cb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83658538661:android:83f4de7b06a39e06dcd74c",
+        "android_client_info": {
+          "package_name": "com.example.mycantor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83658538661-gmhr7c0gcqr3ngru8c5atlf29voitc09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycantor",
+            "certificate_hash": "5630ac8f5a6a2d819b23b0ec29b98815272e3eaf"
+          }
+        },
+        {
+          "client_id": "83658538661-kfpue7jr857rf9oq3mgoscvgcsohvlf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW6pS4tReLHM1gvRUug0RD4vcZl_WpDIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83658538661-kfpue7jr857rf9oq3mgoscvgcsohvlf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
